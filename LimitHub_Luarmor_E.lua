@@ -7,6 +7,6 @@ pcall(function()
 
     -- Immediate script
     task.spawn(function()
-        loadstring(game:HttpGet("https://pastefy.app/krSHDMsk/raw"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/RonikScripts/Testing/refs/heads/main/Tester"))()
     end)
 end)
